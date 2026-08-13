@@ -1,0 +1,277 @@
+{
+  "items": [
+    {
+      "description": "These websites have built-in RSS support. Subscribe directly without RSSHub.",
+      "items": [],
+      "title": "Official RSS Feeds"
+    },
+    {
+      "description": "AI company blogs, research papers, tools and products.",
+      "items": [],
+      "title": "AI"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "AI Company Blogs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "AI Papers and News"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "AI Tools and Products"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "AI Coding and Agent Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tech Communities"
+    },
+    {
+      "description": "Built on Discourse with native RSS support.",
+      "items": [],
+      "title": "LinuxDo"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "V2EX"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "NodeSeek"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Naixi Forum"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Hacker News"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "GitHub"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "SSPAI"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Ruanyifeng Blog"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "News"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "ITHome"
+    },
+    {
+      "description": "Well-known international tech media with official RSS.",
+      "items": [],
+      "title": "Tech Media"
+    },
+    {
+      "description": "Cybersecurity, vulnerabilities, and threat intelligence.",
+      "items": [],
+      "title": "Security"
+    },
+    {
+      "description": "Frontend development, UI/UX design resources.",
+      "items": [],
+      "title": "Frontend and Design"
+    },
+    {
+      "description": "Official blogs for programming languages and frameworks.",
+      "items": [],
+      "title": "Programming Language Blogs"
+    },
+    {
+      "description": "Engineering blogs from major tech companies.",
+      "items": [],
+      "title": "Big Tech Engineering Blogs"
+    },
+    {
+      "description": "High signal-to-noise ratio weekly digests.",
+      "items": [],
+      "title": "Tech Newsletters"
+    },
+    {
+      "description": "Useful release feeds for fast-moving developer tools.",
+      "items": [],
+      "title": "Developer Tool Release Tracking"
+    },
+    {
+      "description": "Academic journals and preprints.",
+      "items": [],
+      "title": "Academic Papers"
+    },
+    {
+      "description": "The following routes require RSSHub. Format: + route.",
+      "items": [],
+      "title": "RSSHub Routes"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Social Media"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Weibo"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Zhihu"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Douyin"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Xiaohongshu"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Telegram"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tech Communities via RSSHub"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "GitHub Enhanced"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Juejin"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "CSDN"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "News and Trending"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Video Platforms"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Bilibili"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Douban Movies"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Shopping and Deals"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "SMZDM"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "RSS Tooling"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Browser Extensions"
+    },
+    {
+      "description": "Subscribe to version updates of your favorite RSS tools.",
+      "items": [],
+      "title": "RSS Tool Release Tracking"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Learning Resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "How to Use"
+    },
+    {
+      "description": "Simply copy the feed URL into your RSS reader. No assembly required.",
+      "items": [],
+      "title": "Using Official RSS Feeds"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Recommended RSS Readers"
+    },
+    {
+      "description": "See contributing.md for guidelines on adding feeds.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "If this project saves you time finding quality RSS feeds, you can support it by buying me a coffee.\nPayPal.me/JackyST0",
+      "items": [],
+      "title": "Support This Project"
+    },
+    {
+      "description": "If this project is helpful to you, please consider giving it a star.\n",
+      "items": [],
+      "title": "Star History"
+    },
+    {
+      "description": "CC0",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T18:12:37.186Z",
+    "original_repository": "JackyST0/awesome-rsshub-routes",
+    "original_repository_sha": "07024e9cbc69e01ce4d519a28a491cf7d4255c8e",
+    "enhanced_repository": "enhansome/enhansome-rsshub-routes",
+    "enhanced_repository_description": null,
+    "title": "Awesome RSSHub Routes with stars"
+  }
+}
