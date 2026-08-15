@@ -19,7 +19,7 @@
 This repository is designed as a usable feed directory rather than a traditional curated-links list. It focuses on helping you discover, copy, and import high-signal feeds quickly, including:
 
 * 📡 **Official RSS** - Native RSS feeds provided by websites
-* 🔧 **RSSHub Routes** - RSS feeds generated via [RSSHub](https://github.com/DIYgod/RSSHub) ⭐ 45,736 | 🐛 339 | 🌐 TypeScript | 📅 2026-08-14
+* 🔧 **RSSHub Routes** - RSS feeds generated via [RSSHub](https://github.com/DIYgod/RSSHub) ⭐ 45,747 | 🐛 340 | 🌐 TypeScript | 📅 2026-08-14
 
 ## Quick Start
 
@@ -398,7 +398,7 @@ The following routes require RSSHub. Format: `https://rsshub.app` + route.
 
 | Name                                                                                                      | Platform                | Description                              |
 | --------------------------------------------------------------------------------------------------------- | ----------------------- | ---------------------------------------- |
-| [RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar) ⭐ 7,302 \| 🐛 70 \| 🌐 TypeScript \| 📅 2026-04-02 | Chrome / Firefox / Edge | Auto-discover RSSHub routes on any page. |
+| [RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar) ⭐ 7,303 \| 🐛 70 \| 🌐 TypeScript \| 📅 2026-04-02 | Chrome / Firefox / Edge | Auto-discover RSSHub routes on any page. |
 | [Feedbro](https://nodetics.com/feedbro/)                                                                  | Chrome / Firefox        | In-browser RSS reader.                   |
 | [RSS Finder](https://github.com/nickreese/rss-finder)                                                     | Chrome                  | Quick RSS feed discovery.                |
 
@@ -419,7 +419,7 @@ Subscribe to version updates of your favorite RSS tools.
 | Resource                                                                                                | Description                      |
 | ------------------------------------------------------------------------------------------------------- | -------------------------------- |
 | [RSSHub Documentation](https://docs.rsshub.app/)                                                        | Route lookup and deployment.     |
-| [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) ⭐ 5,880 \| 🐛 29 \| 🌐 SCSS \| 📅 2026-05-02 | Comprehensive RSS resource list. |
+| [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) ⭐ 5,881 \| 🐛 29 \| 🌐 SCSS \| 📅 2026-05-02 | Comprehensive RSS resource list. |
 | [RSS Guide on SSPAI](https://sspai.com/post/56391)                                                      | RSS beginner guide (Chinese).    |
 
 ## How to Use
@@ -463,7 +463,7 @@ If this project saves you time finding quality RSS feeds, you can support it by 
 ## Related Resources
 
 * [RSSHub Documentation](https://docs.rsshub.app/)
-* [RSSHub GitHub](https://github.com/DIYgod/RSSHub) ⭐ 45,736 | 🐛 339 | 🌐 TypeScript | 📅 2026-08-14
+* [RSSHub GitHub](https://github.com/DIYgod/RSSHub) ⭐ 45,747 | 🐛 340 | 🌐 TypeScript | 📅 2026-08-14
 
 ## Star History
 
@@ -477,4 +477,4 @@ If this project is helpful to you, please consider giving it a star.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
