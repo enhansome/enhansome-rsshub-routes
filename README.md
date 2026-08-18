@@ -1,8 +1,8 @@
 # Awesome RSSHub Routes with stars
 
-[![GitHub stars](https://img.shields.io/github/stars/JackyST0/awesome-rsshub-routes?style=social)](https://github.com/JackyST0/awesome-rsshub-routes) ⭐ 805 | 🐛 2 | 🌐 HTML | 📅 2026-08-17
+[![GitHub stars](https://img.shields.io/github/stars/JackyST0/awesome-rsshub-routes?style=social)](https://github.com/JackyST0/awesome-rsshub-routes) ⭐ 807 | 🐛 2 | 🌐 HTML | 📅 2026-08-18
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![Check Feeds](https://github.com/JackyST0/awesome-rsshub-routes/actions/workflows/check-feeds.yml/badge.svg)](https://github.com/JackyST0/awesome-rsshub-routes/actions/workflows/check-feeds.yml) ⭐ 805 | 🐛 2 | 🌐 HTML | 📅 2026-08-17
+[![Check Feeds](https://github.com/JackyST0/awesome-rsshub-routes/actions/workflows/check-feeds.yml/badge.svg)](https://github.com/JackyST0/awesome-rsshub-routes/actions/workflows/check-feeds.yml) ⭐ 807 | 🐛 2 | 🌐 HTML | 📅 2026-08-18
 
 <p align="center">
   <img src="assets/banner.svg" alt="Awesome RSSHub Routes" width="100%">
@@ -12,14 +12,14 @@
 
 > A practical directory of official RSS feeds and RSSHub routes, with online browsing, OPML import, and feed health checks.
 
-🌐 **Browse Online**: **<https://jackyst0.github.io/awesome-rsshub-routes/>** - Search, filter by category, and copy with one click
+🌐 **Browse Online**: **<https://jackyst0.github.io/awesome-rsshub-routes/>** - Search, filter, and copy the official feeds available in `feeds.opml`
 📥 **One-Click Import**: Download [feeds.opml](./feeds.opml) and import it into your RSS reader
-✅ **Feed Health**: Automated checks track feed availability and surface broken links in [GitHub Issues](https://github.com/JackyST0/awesome-rsshub-routes/issues) ⭐ 805 | 🐛 2 | 🌐 HTML | 📅 2026-08-17
+✅ **Feed Health**: Automated checks track feed availability and surface broken links in [GitHub Issues](https://github.com/JackyST0/awesome-rsshub-routes/issues) ⭐ 807 | 🐛 2 | 🌐 HTML | 📅 2026-08-18
 
 This repository is designed as a usable feed directory rather than a traditional curated-links list. It focuses on helping you discover, copy, and import high-signal feeds quickly, including:
 
 * 📡 **Official RSS** - Native RSS feeds provided by websites
-* 🔧 **RSSHub Routes** - RSS feeds generated via [RSSHub](https://github.com/DIYgod/RSSHub) ⭐ 45,771 | 🐛 344 | 🌐 TypeScript | 📅 2026-08-17
+* 🔧 **RSSHub Routes** - RSS feeds generated via [RSSHub](https://github.com/DIYgod/RSSHub) ⭐ 45,788 | 🐛 343 | 🌐 TypeScript | 📅 2026-08-18
 
 ## Quick Start
 
@@ -85,10 +85,8 @@ AI company blogs, research papers, tools and products.
 | Name                  | Feed URL                                                 | Description                     |
 | --------------------- | -------------------------------------------------------- | ------------------------------- |
 | Hugging Face Blog     | `https://huggingface.co/blog/feed.xml`                   | Open-source AI community        |
-| Stability AI          | `https://stability.ai/news?format=rss`                   | Stable Diffusion                |
 | OpenClaw Releases     | `https://github.com/openclaw/openclaw/releases.atom`     | OpenClaw release updates        |
 | OpenClaw Commits      | `https://github.com/openclaw/openclaw/commits/main.atom` | Main branch activity            |
-| Synced                | `https://www.jiqizhixin.com/rss`                         | Top Chinese AI media            |
 | Simon Willison's Blog | `https://simonwillison.net/atom/everything/`             | LLM insights, Django co-creator |
 
 #### AI Coding and Agent Tools
@@ -117,13 +115,13 @@ Built on Discourse with native RSS support.
 
 #### V2EX
 
-| Name          | Feed URL                                     | Description      |
-| ------------- | -------------------------------------------- | ---------------- |
-| Hot Topics    | `https://www.v2ex.com/feed/tab/hot.xml`      | Today's hot      |
-| Latest Topics | `https://www.v2ex.com/feed/tab/all.xml`      | All latest       |
-| Tech Node     | `https://www.v2ex.com/feed/tab/tech.xml`     | Tech discussions |
-| Creative Node | `https://www.v2ex.com/feed/tab/creative.xml` | Creative sharing |
-| Fun Node      | `https://www.v2ex.com/feed/tab/play.xml`     | Fun stuff        |
+| Name             | Feed URL                                     | Description      |
+| ---------------- | -------------------------------------------- | ---------------- |
+| Site-wide Latest | `https://www.v2ex.com/index.xml`             | All new topics   |
+| Latest Topics    | `https://www.v2ex.com/feed/tab/all.xml`      | All latest       |
+| Tech Node        | `https://www.v2ex.com/feed/tab/tech.xml`     | Tech discussions |
+| Creative Node    | `https://www.v2ex.com/feed/tab/creative.xml` | Creative sharing |
+| Fun Node         | `https://www.v2ex.com/feed/tab/play.xml`     | Fun stuff        |
 
 > Note: These feeds may require a proxy in some regions.
 
@@ -179,6 +177,20 @@ Built on Discourse with native RSS support.
 | ------ | ----------------------------- | ----------------- |
 | ITHome | `https://www.ithome.com/rss/` | IT news full-text |
 
+#### People's Daily
+
+Source: [Issue #9](https://github.com/JackyST0/awesome-rsshub-routes/issues/9) ⭐ 807 | 🐛 2 | 🌐 HTML | 📅 2026-08-18
+
+| Name                 | Feed URL                                    | Description        |
+| -------------------- | ------------------------------------------- | ------------------ |
+| Politics             | `http://www.people.com.cn/rss/politics.xml` | Politics news      |
+| Society              | `http://www.people.com.cn/rss/society.xml`  | Society news       |
+| Legal                | `http://www.people.com.cn/rss/legal.xml`    | Legal news         |
+| World                | `http://www.people.com.cn/rss/world.xml`    | International news |
+| Taiwan, HK and Macao | `http://www.people.com.cn/rss/haixia.xml`   | Cross-strait news  |
+| Military             | `http://www.people.com.cn/rss/military.xml` | Military news      |
+| All News             | `http://www.people.com.cn/rss/ywkx.xml`     | All latest news    |
+
 ### Tech Media
 
 Well-known international tech media with official RSS.
@@ -209,21 +221,21 @@ Cybersecurity, vulnerabilities, and threat intelligence.
 
 Frontend development, UI/UX design resources.
 
-| Name                  | Feed URL                                     | Description               |
-| --------------------- | -------------------------------------------- | ------------------------- |
-| Smashing Magazine     | `https://www.smashingmagazine.com/feed/`     | Frontend design magazine  |
-| A List Apart          | `https://alistapart.com/main/feed/`          | Web standards and design  |
-| Codrops               | `https://tympanus.net/codrops/feed/`         | Creative frontend effects |
-| CSS-Tricks            | `https://css-tricks.com/feed/`               | CSS tips and tutorials    |
-| Astro Blog            | `https://astro.build/rss.xml`                | Astro framework updates   |
-| Svelte Blog           | `https://svelte.dev/blog/rss.xml`            | Svelte and SvelteKit news |
-| Next.js Blog          | `https://nextjs.org/feed.xml`                | Next.js official updates  |
-| Nuxt Blog             | `https://nuxt.com/blog/rss.xml`              | Nuxt framework updates    |
-| Tailwind CSS Blog     | `https://tailwindcss.com/feeds/feed.xml`     | Tailwind CSS updates      |
-| Dev.to                | `https://dev.to/feed`                        | Developer community       |
-| Chrome Developer Blog | `https://developer.chrome.com/blog/feed.xml` | Chrome dev blog           |
-| Dribbble Popular      | `https://dribbble.com/shots/popular.rss`     | Top design shots          |
-| Product Hunt          | `https://www.producthunt.com/feed`           | New product discovery     |
+| Name                  | Feed URL                                     | Description                |
+| --------------------- | -------------------------------------------- | -------------------------- |
+| Smashing Magazine     | `https://www.smashingmagazine.com/feed/`     | Frontend design magazine   |
+| A List Apart          | `https://alistapart.com/main/feed/`          | Web standards and design   |
+| Codrops               | `https://tympanus.net/codrops/feed/`         | Creative frontend effects  |
+| CSS-Tricks            | `https://css-tricks.com/feed/`               | CSS tips and tutorials     |
+| Astro Blog            | `https://astro.build/rss.xml`                | Astro framework updates    |
+| Svelte Blog           | `https://svelte.dev/blog/rss.xml`            | Svelte and SvelteKit news  |
+| Next.js Blog          | `https://nextjs.org/feed.xml`                | Next.js official updates   |
+| Nuxt Blog             | `https://nuxt.com/blog/rss.xml`              | Nuxt framework updates     |
+| Tailwind CSS Blog     | `https://tailwindcss.com/feeds/feed.xml`     | Tailwind CSS updates       |
+| Dev.to                | `https://dev.to/feed`                        | Developer community        |
+| Chrome Developer Blog | `https://developer.chrome.com/blog/feed.xml` | Chrome dev blog            |
+| Dribbble Stories      | `https://dribbble.com/stories.rss`           | Design stories and updates |
+| Product Hunt          | `https://www.producthunt.com/feed`           | New product discovery      |
 
 ### Programming Language Blogs
 
@@ -237,7 +249,6 @@ Official blogs for programming languages and frameworks.
 | Go Blog         | `https://go.dev/blog/feed.atom`                   | Go official blog         |
 | Python Blog     | `https://blog.python.org/feeds/posts/default`     | Python official blog     |
 | Node.js Blog    | `https://nodejs.org/en/feed/blog.xml`             | Node.js official blog    |
-| Deno Blog       | `https://deno.com/blog/feed.xml`                  | Deno official blog       |
 | TypeScript Blog | `https://devblogs.microsoft.com/typescript/feed/` | TypeScript official blog |
 | Swift Blog      | `https://www.swift.org/atom.xml`                  | Swift official blog      |
 | Kotlin Blog     | `https://blog.jetbrains.com/kotlin/feed/`         | Kotlin official blog     |
@@ -441,7 +452,7 @@ Simply copy the feed URL into your RSS reader. No assembly required.
 | [Feedly](https://feedly.com/)                                                                                    | Web            | Classic reader, free tier.   |
 | [Inoreader](https://www.inoreader.com/)                                                                          | Web / App      | Feature-rich.                |
 | [NetNewsWire](https://netnewswire.com/)                                                                          | macOS / iOS    | Native and free.             |
-| [Fluent Reader](https://github.com/yang991178/fluent-reader) ⭐ 9,602 \| 🐛 385 \| 🌐 TypeScript \| 📅 2026-05-21 | Cross-platform | Open-source and modern.      |
+| [Fluent Reader](https://github.com/yang991178/fluent-reader) ⭐ 9,603 \| 🐛 385 \| 🌐 TypeScript \| 📅 2026-05-21 | Cross-platform | Open-source and modern.      |
 | [Folo](https://folo.is/)                                                                                         | Cross-platform | Next-gen with AI.            |
 | [FreshRSS](https://freshrss.org/)                                                                                | Self-hosted    | Open-source and self-hosted. |
 
@@ -463,7 +474,7 @@ If this project saves you time finding quality RSS feeds, you can support it by 
 ## Related Resources
 
 * [RSSHub Documentation](https://docs.rsshub.app/)
-* [RSSHub GitHub](https://github.com/DIYgod/RSSHub) ⭐ 45,771 | 🐛 344 | 🌐 TypeScript | 📅 2026-08-17
+* [RSSHub GitHub](https://github.com/DIYgod/RSSHub) ⭐ 45,788 | 🐛 343 | 🌐 TypeScript | 📅 2026-08-18
 
 ## Star History
 
@@ -477,4 +488,4 @@ If this project is helpful to you, please consider giving it a star.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._

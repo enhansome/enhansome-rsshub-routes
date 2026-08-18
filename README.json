@@ -86,6 +86,11 @@
       "title": "ITHome"
     },
     {
+      "description": "Source: Issue #9",
+      "items": [],
+      "title": "People's Daily"
+    },
+    {
       "description": "Well-known international tech media with official RSS.",
       "items": [],
       "title": "Tech Media"
@@ -267,9 +272,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T17:49:18.532Z",
+    "last_updated": "2026-08-18T17:48:46.399Z",
     "original_repository": "JackyST0/awesome-rsshub-routes",
-    "original_repository_sha": "849637da82353c4845d892b52fcb44d80214eaa6",
+    "original_repository_sha": "92fc1763680be24c321061437fddc3d27db7109b",
     "enhanced_repository": "enhansome/enhansome-rsshub-routes",
     "enhanced_repository_description": null,
     "title": "Awesome RSSHub Routes with stars"
