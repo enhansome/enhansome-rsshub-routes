@@ -19,7 +19,7 @@
 This repository is designed as a usable feed directory rather than a traditional curated-links list. It focuses on helping you discover, copy, and import high-signal feeds quickly, including:
 
 * 📡 **Official RSS** - Native RSS feeds provided by websites
-* 🔧 **RSSHub Routes** - RSS feeds generated via [RSSHub](https://github.com/DIYgod/RSSHub) ⭐ 45,809 | 🐛 343 | 🌐 TypeScript | 📅 2026-08-18
+* 🔧 **RSSHub Routes** - RSS feeds generated via [RSSHub](https://github.com/DIYgod/RSSHub) ⭐ 45,810 | 🐛 343 | 🌐 TypeScript | 📅 2026-08-18
 
 ## Quick Start
 
@@ -474,7 +474,7 @@ If this project saves you time finding quality RSS feeds, you can support it by 
 ## Related Resources
 
 * [RSSHub Documentation](https://docs.rsshub.app/)
-* [RSSHub GitHub](https://github.com/DIYgod/RSSHub) ⭐ 45,809 | 🐛 343 | 🌐 TypeScript | 📅 2026-08-18
+* [RSSHub GitHub](https://github.com/DIYgod/RSSHub) ⭐ 45,810 | 🐛 343 | 🌐 TypeScript | 📅 2026-08-18
 
 ## Star History
 
