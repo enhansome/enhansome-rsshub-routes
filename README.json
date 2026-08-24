@@ -83,10 +83,10 @@
             "archived": false,
             "id": 127769231,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T10:34:23Z",
+            "last_commit": "2026-08-24T17:51:23Z",
             "owner": "DIYgod",
             "repo": "RSSHub",
-            "stars": 45869
+            "stars": 45872
           }
         }
       ],
@@ -94,7 +94,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:16:40.118Z",
+    "last_updated": "2026-08-24T17:51:35.391Z",
     "original_repository": "JackyST0/awesome-rsshub-routes",
     "original_repository_id": 1137362287,
     "original_repository_sha": "092439af129bdd61554d1d692a04ed18b622082b",
