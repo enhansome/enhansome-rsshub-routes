@@ -1,10 +1,103 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RSSHub Radar",
+              "description": "Chrome / Firefox / Edge Auto-discover RSSHub routes on any page.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 197205035,
+                "language": "TypeScript",
+                "last_commit": "2026-04-02T08:59:07Z",
+                "owner": "DIYgod",
+                "repo": "RSSHub-Radar",
+                "stars": 7308
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Browser Extensions"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ALL-about-RSS",
+              "description": "Comprehensive RSS resource list.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 255616511,
+                "language": "Python",
+                "last_commit": "2026-08-22T09:36:30Z",
+                "owner": "AboutRSS",
+                "repo": "ALL-about-RSS",
+                "stars": 5886
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Learning Resources"
+        }
+      ],
+      "title": "RSS Tooling"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fluent Reader",
+          "description": "Cross-platform Open-source and modern.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 268237230,
+            "language": "TypeScript",
+            "last_commit": "2026-05-21T04:53:16Z",
+            "owner": "yang991178",
+            "repo": "fluent-reader",
+            "stars": 9618
+          }
+        }
+      ],
+      "title": "Recommended RSS Readers"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RSSHub GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 127769231,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T10:34:23Z",
+            "owner": "DIYgod",
+            "repo": "RSSHub",
+            "stars": 45869
+          }
+        }
+      ],
+      "title": "Related Resources"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T17:40:00.975Z",
+    "last_updated": "2026-08-24T14:16:40.118Z",
     "original_repository": "JackyST0/awesome-rsshub-routes",
     "original_repository_id": 1137362287,
-    "original_repository_sha": "c3b5a93bc6d4a510c347907813c404b8570f31e7",
+    "original_repository_sha": "092439af129bdd61554d1d692a04ed18b622082b",
     "enhanced_repository": "enhansome/enhansome-rsshub-routes",
     "enhanced_repository_description": null,
     "title": "Awesome RSSHub Routes with stars"
