@@ -17,7 +17,7 @@
                 "last_commit": "2026-04-02T08:59:07Z",
                 "owner": "DIYgod",
                 "repo": "RSSHub-Radar",
-                "stars": 7310
+                "stars": 7312
               }
             }
           ],
@@ -65,7 +65,7 @@
             "last_commit": "2026-05-21T04:53:16Z",
             "owner": "yang991178",
             "repo": "fluent-reader",
-            "stars": 9619
+            "stars": 9622
           }
         }
       ],
@@ -83,10 +83,10 @@
             "archived": false,
             "id": 127769231,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T17:01:10Z",
+            "last_commit": "2026-08-26T12:35:54Z",
             "owner": "DIYgod",
             "repo": "RSSHub",
-            "stars": 45887
+            "stars": 45898
           }
         }
       ],
@@ -94,10 +94,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T17:50:05.408Z",
+    "last_updated": "2026-08-26T19:22:36.805Z",
     "original_repository": "JackyST0/awesome-rsshub-routes",
     "original_repository_id": 1137362287,
-    "original_repository_sha": "9b445ff87fb23b7d42c8f171fcf2bdcdab985000",
+    "original_repository_sha": "eef866581c4dc69b223d76cf6dba7b2642760a06",
     "enhanced_repository": "enhansome/enhansome-rsshub-routes",
     "enhanced_repository_description": null,
     "title": "Awesome RSSHub Routes with stars"
