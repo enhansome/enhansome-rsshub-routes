@@ -17,7 +17,7 @@
                 "last_commit": "2026-04-02T08:59:07Z",
                 "owner": "DIYgod",
                 "repo": "RSSHub-Radar",
-                "stars": 7312
+                "stars": 7313
               }
             }
           ],
@@ -65,7 +65,7 @@
             "last_commit": "2026-05-21T04:53:16Z",
             "owner": "yang991178",
             "repo": "fluent-reader",
-            "stars": 9622
+            "stars": 9623
           }
         }
       ],
@@ -83,10 +83,10 @@
             "archived": false,
             "id": 127769231,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T12:35:54Z",
+            "last_commit": "2026-08-27T08:08:48Z",
             "owner": "DIYgod",
             "repo": "RSSHub",
-            "stars": 45898
+            "stars": 45901
           }
         }
       ],
@@ -94,9 +94,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:22:36.805Z",
-    "original_repository": "JackyST0/awesome-rsshub-routes",
-    "original_repository_id": 1137362287,
+    "last_updated": "2026-08-27T12:02:11.267Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1137362287,
+      "language": "HTML",
+      "last_commit": "2026-08-26T09:59:16Z",
+      "owner": "JackyST0",
+      "repo": "awesome-rsshub-routes",
+      "stars": 820
+    },
     "original_repository_sha": "eef866581c4dc69b223d76cf6dba7b2642760a06",
     "enhanced_repository": "enhansome/enhansome-rsshub-routes",
     "enhanced_repository_description": null,
