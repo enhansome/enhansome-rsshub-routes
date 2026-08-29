@@ -12,12 +12,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🧡 Browser extension that simplifies finding and subscribing RSS and RSSHub",
+                "homepage": "https://chrome.google.com/webstore/detail/kefjpfngnndepjbopdmoebkipbgkggaa",
                 "id": 197205035,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-04-02T08:59:07Z",
+                "open_issues": 71,
                 "owner": "DIYgod",
                 "repo": "RSSHub-Radar",
-                "stars": 7314
+                "stars": 7314,
+                "topics": [
+                  "browser-extension",
+                  "chrome-extension",
+                  "firefox-addon",
+                  "rss",
+                  "rsshub"
+                ]
               },
               "first_seen": "2026-08-29T01:00:45.535Z"
             }
@@ -35,12 +46,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of RSS related stuff: tools, services, communities and tutorials, etc.",
+                "homepage": "https://rss.tips",
                 "id": 255616511,
                 "language": "Python",
+                "license": "CC-BY-4.0",
                 "last_commit": "2026-08-25T09:15:03Z",
+                "open_issues": 21,
                 "owner": "AboutRSS",
                 "repo": "ALL-about-RSS",
-                "stars": 5888
+                "stars": 5888,
+                "topics": [
+                  "all-in-one",
+                  "apps",
+                  "atom-feed",
+                  "atomfeed",
+                  "community",
+                  "curation",
+                  "feed43",
+                  "json-feed",
+                  "jsonfeed",
+                  "list",
+                  "really-simple-sydication",
+                  "rich-site-summary",
+                  "rss",
+                  "rss-aggregator",
+                  "rss-feed",
+                  "rss-reader",
+                  "rssfeed",
+                  "stuffs",
+                  "telegram",
+                  "telegram-channel"
+                ]
               },
               "first_seen": "2026-08-29T01:00:45.535Z"
             }
@@ -62,12 +99,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modern desktop RSS reader built with Electron, React, and Fluent UI",
+            "homepage": "https://hyliu.me/fluent-reader/",
             "id": 268237230,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-05-21T04:53:16Z",
+            "open_issues": 388,
             "owner": "yang991178",
             "repo": "fluent-reader",
-            "stars": 9631
+            "stars": 9631,
+            "topics": [
+              "electron",
+              "linux",
+              "macos",
+              "react",
+              "rss",
+              "rss-reader",
+              "typescript",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T01:00:45.535Z"
         }
@@ -84,12 +135,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🧡 Everything is RSSible",
+            "homepage": "https://docs.rsshub.app",
             "id": 127769231,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T20:17:14Z",
+            "open_issues": 347,
             "owner": "DIYgod",
             "repo": "RSSHub",
-            "stars": 45924
+            "stars": 45925,
+            "topics": [
+              "bilibili",
+              "douban",
+              "dribbble",
+              "instagram",
+              "lofter",
+              "pixiv",
+              "rss",
+              "rsshub",
+              "spotify",
+              "telegram",
+              "tiktok",
+              "twitter",
+              "v2ex",
+              "wechat",
+              "weibo",
+              "ximalaya",
+              "youtube",
+              "zhihu"
+            ]
           },
           "first_seen": "2026-08-29T01:00:45.535Z"
         }
@@ -98,15 +173,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:00:45.535Z",
+    "last_updated": "2026-08-29T04:41:03.015Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🎯 精选 RSSHub 实用路由推荐，让你的 RSS 阅读更高效！",
+      "homepage": "https://jackyst0.github.io/awesome-rsshub-routes/",
       "id": 1137362287,
       "language": "HTML",
+      "license": "CC0-1.0",
       "last_commit": "2026-08-26T09:59:16Z",
+      "open_issues": 2,
       "owner": "JackyST0",
       "repo": "awesome-rsshub-routes",
-      "stars": 823
+      "stars": 824,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "rss",
+        "rss-feeds",
+        "rsshub"
+      ]
     },
     "original_repository_sha": "eef866581c4dc69b223d76cf6dba7b2642760a06",
     "enhanced_repository": "enhansome/enhansome-rsshub-routes",

@@ -1,8 +1,8 @@
 # Awesome RSSHub Routes with stars
 
-[![GitHub stars](https://img.shields.io/github/stars/JackyST0/awesome-rsshub-routes?style=social)](https://github.com/JackyST0/awesome-rsshub-routes) ⭐ 823 | 🐛 2 | 🌐 HTML | 📅 2026-08-26
+[![GitHub stars](https://img.shields.io/github/stars/JackyST0/awesome-rsshub-routes?style=social)](https://github.com/JackyST0/awesome-rsshub-routes) ⭐ 824 | 🐛 2 | 🌐 HTML | 📅 2026-08-26
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![Check Feeds](https://github.com/JackyST0/awesome-rsshub-routes/actions/workflows/check-feeds.yml/badge.svg)](https://github.com/JackyST0/awesome-rsshub-routes/actions/workflows/check-feeds.yml) ⭐ 823 | 🐛 2 | 🌐 HTML | 📅 2026-08-26
+[![Check Feeds](https://github.com/JackyST0/awesome-rsshub-routes/actions/workflows/check-feeds.yml/badge.svg)](https://github.com/JackyST0/awesome-rsshub-routes/actions/workflows/check-feeds.yml) ⭐ 824 | 🐛 2 | 🌐 HTML | 📅 2026-08-26
 
 <p align="center">
   <img src="assets/banner.svg" alt="Awesome RSSHub Routes" width="100%">
@@ -14,12 +14,12 @@
 
 🌐 **Browse Online**: **<https://jackyst0.github.io/awesome-rsshub-routes/>** - Search, filter, and copy the official feeds available in `feeds.opml`
 📥 **One-Click Import**: Download [feeds.opml](./feeds.opml) and import it into your RSS reader
-✅ **Feed Health**: Automated checks track feed availability and surface broken links in [GitHub Issues](https://github.com/JackyST0/awesome-rsshub-routes/issues) ⭐ 823 | 🐛 2 | 🌐 HTML | 📅 2026-08-26
+✅ **Feed Health**: Automated checks track feed availability and surface broken links in [GitHub Issues](https://github.com/JackyST0/awesome-rsshub-routes/issues) ⭐ 824 | 🐛 2 | 🌐 HTML | 📅 2026-08-26
 
 This repository is designed as a usable feed directory rather than a traditional curated-links list. It focuses on helping you discover, copy, and import high-signal feeds quickly, including:
 
 * 📡 **Official RSS** - Native RSS feeds provided by websites
-* 🔧 **RSSHub Routes** - RSS feeds generated via [RSSHub](https://github.com/DIYgod/RSSHub) ⭐ 45,924 | 🐛 347 | 🌐 TypeScript | 📅 2026-08-28
+* 🔧 **RSSHub Routes** - RSS feeds generated via [RSSHub](https://github.com/DIYgod/RSSHub) ⭐ 45,925 | 🐛 347 | 🌐 TypeScript | 📅 2026-08-28
 
 ## Quick Start
 
@@ -459,7 +459,7 @@ If this project saves you time finding quality RSS feeds, you can support it by 
 
 ## Related Resources
 
-* [RSSHub GitHub](https://github.com/DIYgod/RSSHub) ⭐ 45,924 | 🐛 347 | 🌐 TypeScript | 📅 2026-08-28
+* [RSSHub GitHub](https://github.com/DIYgod/RSSHub) ⭐ 45,925 | 🐛 347 | 🌐 TypeScript | 📅 2026-08-28
 * [RSSHub Documentation](https://docs.rsshub.app/)
 
 ## Star History
