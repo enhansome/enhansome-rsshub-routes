@@ -17,8 +17,9 @@
                 "last_commit": "2026-04-02T08:59:07Z",
                 "owner": "DIYgod",
                 "repo": "RSSHub-Radar",
-                "stars": 7315
-              }
+                "stars": 7314
+              },
+              "first_seen": "2026-08-29T01:00:45.535Z"
             }
           ],
           "description": null,
@@ -39,8 +40,9 @@
                 "last_commit": "2026-08-25T09:15:03Z",
                 "owner": "AboutRSS",
                 "repo": "ALL-about-RSS",
-                "stars": 5887
-              }
+                "stars": 5888
+              },
+              "first_seen": "2026-08-29T01:00:45.535Z"
             }
           ],
           "description": null,
@@ -65,8 +67,9 @@
             "last_commit": "2026-05-21T04:53:16Z",
             "owner": "yang991178",
             "repo": "fluent-reader",
-            "stars": 9625
-          }
+            "stars": 9631
+          },
+          "first_seen": "2026-08-29T01:00:45.535Z"
         }
       ],
       "title": "Recommended RSS Readers"
@@ -83,18 +86,19 @@
             "archived": false,
             "id": 127769231,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T15:29:12Z",
+            "last_commit": "2026-08-28T20:17:14Z",
             "owner": "DIYgod",
             "repo": "RSSHub",
-            "stars": 45911
-          }
+            "stars": 45924
+          },
+          "first_seen": "2026-08-29T01:00:45.535Z"
         }
       ],
       "title": "Related Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:32:02.251Z",
+    "last_updated": "2026-08-29T01:00:45.535Z",
     "original_repository_info": {
       "archived": false,
       "id": 1137362287,
@@ -102,7 +106,7 @@
       "last_commit": "2026-08-26T09:59:16Z",
       "owner": "JackyST0",
       "repo": "awesome-rsshub-routes",
-      "stars": 822
+      "stars": 823
     },
     "original_repository_sha": "eef866581c4dc69b223d76cf6dba7b2642760a06",
     "enhanced_repository": "enhansome/enhansome-rsshub-routes",
