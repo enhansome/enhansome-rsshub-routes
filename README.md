@@ -1,8 +1,8 @@
 # Awesome RSSHub Routes with stars
 
-[![GitHub stars](https://img.shields.io/github/stars/JackyST0/awesome-rsshub-routes?style=social)](https://github.com/JackyST0/awesome-rsshub-routes) ⭐ 825 | 🐛 2 | 🌐 HTML | 📅 2026-08-26
+[![GitHub stars](https://img.shields.io/github/stars/JackyST0/awesome-rsshub-routes?style=social)](https://github.com/JackyST0/awesome-rsshub-routes) ⭐ 829 | 🐛 2 | 🌐 HTML | 📅 2026-08-31
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![Check Feeds](https://github.com/JackyST0/awesome-rsshub-routes/actions/workflows/check-feeds.yml/badge.svg)](https://github.com/JackyST0/awesome-rsshub-routes/actions/workflows/check-feeds.yml) ⭐ 825 | 🐛 2 | 🌐 HTML | 📅 2026-08-26
+[![Check Feeds](https://github.com/JackyST0/awesome-rsshub-routes/actions/workflows/check-feeds.yml/badge.svg)](https://github.com/JackyST0/awesome-rsshub-routes/actions/workflows/check-feeds.yml) ⭐ 829 | 🐛 2 | 🌐 HTML | 📅 2026-08-31
 
 <p align="center">
   <img src="assets/banner.svg" alt="Awesome RSSHub Routes" width="100%">
@@ -14,12 +14,12 @@
 
 🌐 **Browse Online**: **<https://jackyst0.github.io/awesome-rsshub-routes/>** - Search, filter, and copy the official feeds available in `feeds.opml`
 📥 **One-Click Import**: Download [feeds.opml](./feeds.opml) and import it into your RSS reader
-✅ **Feed Health**: Automated checks track feed availability and surface broken links in [GitHub Issues](https://github.com/JackyST0/awesome-rsshub-routes/issues) ⭐ 825 | 🐛 2 | 🌐 HTML | 📅 2026-08-26
+✅ **Feed Health**: Automated checks track feed availability and surface broken links in [GitHub Issues](https://github.com/JackyST0/awesome-rsshub-routes/issues) ⭐ 829 | 🐛 2 | 🌐 HTML | 📅 2026-08-31
 
 This repository is designed as a usable feed directory rather than a traditional curated-links list. It focuses on helping you discover, copy, and import high-signal feeds quickly, including:
 
 * 📡 **Official RSS** - Native RSS feeds provided by websites
-* 🔧 **RSSHub Routes** - RSS feeds generated via [RSSHub](https://github.com/DIYgod/RSSHub) ⭐ 45,947 | 🐛 350 | 🌐 TypeScript | 📅 2026-08-30
+* 🔧 **RSSHub Routes** - RSS feeds generated via [RSSHub](https://github.com/DIYgod/RSSHub) ⭐ 45,964 | 🐛 351 | 🌐 TypeScript | 📅 2026-08-31
 
 ## Quick Start
 
@@ -395,7 +395,7 @@ The following routes require RSSHub. Format: `https://rsshub.app` + route.
 
 | Name                                                                                                      | Platform                | Description                              |
 | --------------------------------------------------------------------------------------------------------- | ----------------------- | ---------------------------------------- |
-| [RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar) ⭐ 7,317 \| 🐛 71 \| 🌐 TypeScript \| 📅 2026-04-02 | Chrome / Firefox / Edge | Auto-discover RSSHub routes on any page. |
+| [RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar) ⭐ 7,319 \| 🐛 71 \| 🌐 TypeScript \| 📅 2026-04-02 | Chrome / Firefox / Edge | Auto-discover RSSHub routes on any page. |
 | [Feedbro](https://nodetics.com/feedbro/)                                                                  | Chrome / Firefox        | In-browser RSS reader.                   |
 | [RSS Finder](https://github.com/nickreese/rss-finder)                                                     | Chrome                  | Quick RSS feed discovery.                |
 
@@ -416,7 +416,7 @@ Subscribe to version updates of your favorite RSS tools.
 | Resource                                                                                                  | Description                      |
 | --------------------------------------------------------------------------------------------------------- | -------------------------------- |
 | [RSSHub Documentation](https://docs.rsshub.app/)                                                          | Route lookup and deployment.     |
-| [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) ⭐ 5,892 \| 🐛 21 \| 🌐 Python \| 📅 2026-08-29 | Comprehensive RSS resource list. |
+| [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) ⭐ 5,892 \| 🐛 19 \| 🌐 Python \| 📅 2026-08-31 | Comprehensive RSS resource list. |
 | [RSS Guide on SSPAI](https://sspai.com/post/56391)                                                        | RSS beginner guide (Chinese).    |
 
 ## How to Use
@@ -438,7 +438,7 @@ Simply copy the feed URL into your RSS reader. No assembly required.
 | [Feedly](https://feedly.com/)                                                                                    | Web            | Classic reader, free tier.   |
 | [Inoreader](https://www.inoreader.com/)                                                                          | Web / App      | Feature-rich.                |
 | [NetNewsWire](https://netnewswire.com/)                                                                          | macOS / iOS    | Native and free.             |
-| [Fluent Reader](https://github.com/yang991178/fluent-reader) ⭐ 9,635 \| 🐛 388 \| 🌐 TypeScript \| 📅 2026-05-21 | Cross-platform | Open-source and modern.      |
+| [Fluent Reader](https://github.com/yang991178/fluent-reader) ⭐ 9,640 \| 🐛 388 \| 🌐 TypeScript \| 📅 2026-05-21 | Cross-platform | Open-source and modern.      |
 | [Folo](https://folo.is/)                                                                                         | Cross-platform | Next-gen with AI.            |
 | [FreshRSS](https://freshrss.org/)                                                                                | Self-hosted    | Open-source and self-hosted. |
 
@@ -459,7 +459,7 @@ If this project saves you time finding quality RSS feeds, you can support it by 
 
 ## Related Resources
 
-* [RSSHub GitHub](https://github.com/DIYgod/RSSHub) ⭐ 45,947 | 🐛 350 | 🌐 TypeScript | 📅 2026-08-30
+* [RSSHub GitHub](https://github.com/DIYgod/RSSHub) ⭐ 45,964 | 🐛 351 | 🌐 TypeScript | 📅 2026-08-31
 * [RSSHub Documentation](https://docs.rsshub.app/)
 
 ## Star History
@@ -474,4 +474,4 @@ If this project is helpful to you, please consider giving it a star.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
