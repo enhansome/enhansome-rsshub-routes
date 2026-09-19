@@ -55,7 +55,7 @@
                 "open_issues": 22,
                 "owner": "AboutRSS",
                 "repo": "ALL-about-RSS",
-                "stars": 5904,
+                "stars": 5905,
                 "topics": [
                   "all-in-one",
                   "apps",
@@ -108,7 +108,7 @@
             "open_issues": 392,
             "owner": "yang991178",
             "repo": "fluent-reader",
-            "stars": 9669,
+            "stars": 9671,
             "topics": [
               "electron",
               "linux",
@@ -140,11 +140,11 @@
             "id": 127769231,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-18T19:10:09Z",
-            "open_issues": 346,
+            "last_commit": "2026-09-19T19:21:19Z",
+            "open_issues": 347,
             "owner": "DIYgod",
             "repo": "RSSHub",
-            "stars": 46241,
+            "stars": 46250,
             "topics": [
               "bilibili",
               "douban",
@@ -173,7 +173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T19:44:26.931Z",
+    "last_updated": "2026-09-19T19:23:21.826Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎯 精选 RSSHub 实用路由推荐，让你的 RSS 阅读更高效！",
