@@ -21,7 +21,7 @@
                 "open_issues": 70,
                 "owner": "DIYgod",
                 "repo": "RSSHub-Radar",
-                "stars": 7347,
+                "stars": 7348,
                 "topics": [
                   "browser-extension",
                   "chrome-extension",
@@ -55,7 +55,7 @@
                 "open_issues": 23,
                 "owner": "AboutRSS",
                 "repo": "ALL-about-RSS",
-                "stars": 5911,
+                "stars": 5913,
                 "topics": [
                   "all-in-one",
                   "apps",
@@ -140,11 +140,11 @@
             "id": 127769231,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-24T19:50:40Z",
-            "open_issues": 344,
+            "last_commit": "2026-09-25T20:20:09Z",
+            "open_issues": 339,
             "owner": "DIYgod",
             "repo": "RSSHub",
-            "stars": 46316,
+            "stars": 46325,
             "topics": [
               "bilibili",
               "douban",
@@ -173,7 +173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T20:33:24.063Z",
+    "last_updated": "2026-09-25T20:33:03.110Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎯 精选 RSSHub 实用路由推荐，让你的 RSS 阅读更高效！",
