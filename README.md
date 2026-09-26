@@ -19,7 +19,7 @@
 This repository is designed as a usable feed directory rather than a traditional curated-links list. It focuses on helping you discover, copy, and import high-signal feeds quickly, including:
 
 * 📡 **Official RSS** - Native RSS feeds provided by websites
-* 🔧 **RSSHub Routes** - RSS feeds generated via [RSSHub](https://github.com/DIYgod/RSSHub) ⭐ 46,325 | 🐛 339 | 🌐 TypeScript | 📅 2026-09-25
+* 🔧 **RSSHub Routes** - RSS feeds generated via [RSSHub](https://github.com/DIYgod/RSSHub) ⭐ 46,333 | 🐛 203 | 🌐 TypeScript | 📅 2026-09-26
 
 ## Quick Start
 
@@ -416,7 +416,7 @@ Subscribe to version updates of your favorite RSS tools.
 | Resource                                                                                                  | Description                      |
 | --------------------------------------------------------------------------------------------------------- | -------------------------------- |
 | [RSSHub Documentation](https://docs.rsshub.app/)                                                          | Route lookup and deployment.     |
-| [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) ⭐ 5,913 \| 🐛 23 \| 🌐 Python \| 📅 2026-09-01 | Comprehensive RSS resource list. |
+| [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) ⭐ 5,912 \| 🐛 23 \| 🌐 Python \| 📅 2026-09-01 | Comprehensive RSS resource list. |
 | [RSS Guide on SSPAI](https://sspai.com/post/56391)                                                        | RSS beginner guide (Chinese).    |
 
 ## How to Use
@@ -438,7 +438,7 @@ Simply copy the feed URL into your RSS reader. No assembly required.
 | [Feedly](https://feedly.com/)                                                                                    | Web            | Classic reader, free tier.   |
 | [Inoreader](https://www.inoreader.com/)                                                                          | Web / App      | Feature-rich.                |
 | [NetNewsWire](https://netnewswire.com/)                                                                          | macOS / iOS    | Native and free.             |
-| [Fluent Reader](https://github.com/yang991178/fluent-reader) ⭐ 9,681 \| 🐛 392 \| 🌐 TypeScript \| 📅 2026-09-16 | Cross-platform | Open-source and modern.      |
+| [Fluent Reader](https://github.com/yang991178/fluent-reader) ⭐ 9,679 \| 🐛 392 \| 🌐 TypeScript \| 📅 2026-09-16 | Cross-platform | Open-source and modern.      |
 | [Folo](https://folo.is/)                                                                                         | Cross-platform | Next-gen with AI.            |
 | [FreshRSS](https://freshrss.org/)                                                                                | Self-hosted    | Open-source and self-hosted. |
 
@@ -459,7 +459,7 @@ If this project saves you time finding quality RSS feeds, you can support it by 
 
 ## Related Resources
 
-* [RSSHub GitHub](https://github.com/DIYgod/RSSHub) ⭐ 46,325 | 🐛 339 | 🌐 TypeScript | 📅 2026-09-25
+* [RSSHub GitHub](https://github.com/DIYgod/RSSHub) ⭐ 46,333 | 🐛 203 | 🌐 TypeScript | 📅 2026-09-26
 * [RSSHub Documentation](https://docs.rsshub.app/)
 
 ## Star History
@@ -474,4 +474,4 @@ If this project is helpful to you, please consider giving it a star.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
