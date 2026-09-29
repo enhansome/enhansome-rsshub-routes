@@ -21,7 +21,7 @@
                 "open_issues": 70,
                 "owner": "DIYgod",
                 "repo": "RSSHub-Radar",
-                "stars": 7349,
+                "stars": 7351,
                 "topics": [
                   "browser-extension",
                   "chrome-extension",
@@ -52,10 +52,10 @@
                 "language": "Python",
                 "license": "CC-BY-4.0",
                 "last_commit": "2026-09-01T01:30:48Z",
-                "open_issues": 24,
+                "open_issues": 25,
                 "owner": "AboutRSS",
                 "repo": "ALL-about-RSS",
-                "stars": 5915,
+                "stars": 5916,
                 "topics": [
                   "all-in-one",
                   "apps",
@@ -105,10 +105,10 @@
             "language": "TypeScript",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-16T04:40:03Z",
-            "open_issues": 392,
+            "open_issues": 393,
             "owner": "yang991178",
             "repo": "fluent-reader",
-            "stars": 9682,
+            "stars": 9684,
             "topics": [
               "electron",
               "linux",
@@ -140,11 +140,11 @@
             "id": 127769231,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-28T19:46:04Z",
+            "last_commit": "2026-09-29T16:48:33Z",
             "open_issues": 193,
             "owner": "DIYgod",
             "repo": "RSSHub",
-            "stars": 46351,
+            "stars": 46366,
             "topics": [
               "bilibili",
               "douban",
@@ -173,7 +173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T22:34:39.103Z",
+    "last_updated": "2026-09-29T21:27:04.442Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎯 精选 RSSHub 实用路由推荐，让你的 RSS 阅读更高效！",
@@ -185,7 +185,7 @@
       "open_issues": 1,
       "owner": "JackyST0",
       "repo": "awesome-rsshub-routes",
-      "stars": 871,
+      "stars": 872,
       "topics": [
         "awesome",
         "awesome-list",
