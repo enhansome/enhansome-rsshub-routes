@@ -21,7 +21,7 @@
                 "open_issues": 70,
                 "owner": "DIYgod",
                 "repo": "RSSHub-Radar",
-                "stars": 7352,
+                "stars": 7355,
                 "topics": [
                   "browser-extension",
                   "chrome-extension",
@@ -55,7 +55,7 @@
                 "open_issues": 24,
                 "owner": "AboutRSS",
                 "repo": "ALL-about-RSS",
-                "stars": 5916,
+                "stars": 5915,
                 "topics": [
                   "all-in-one",
                   "apps",
@@ -108,7 +108,7 @@
             "open_issues": 394,
             "owner": "yang991178",
             "repo": "fluent-reader",
-            "stars": 9686,
+            "stars": 9688,
             "topics": [
               "electron",
               "linux",
@@ -140,11 +140,11 @@
             "id": 127769231,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-30T16:51:43Z",
-            "open_issues": 193,
+            "last_commit": "2026-10-01T12:44:24Z",
+            "open_issues": 191,
             "owner": "DIYgod",
             "repo": "RSSHub",
-            "stars": 46375,
+            "stars": 46393,
             "topics": [
               "bilibili",
               "douban",
@@ -173,7 +173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T21:27:30.418Z",
+    "last_updated": "2026-10-01T21:51:58.825Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎯 精选 RSSHub 实用路由推荐，让你的 RSS 阅读更高效！",
@@ -185,7 +185,7 @@
       "open_issues": 1,
       "owner": "JackyST0",
       "repo": "awesome-rsshub-routes",
-      "stars": 872,
+      "stars": 874,
       "topics": [
         "awesome",
         "awesome-list",
