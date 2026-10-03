@@ -131,7 +131,7 @@
         {
           "node_type": "item",
           "title": "RSSHub GitHub",
-          "description": null,
+          "description": "DIYgod/RSSHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -140,11 +140,11 @@
             "id": 127769231,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-02T15:03:34Z",
-            "open_issues": 191,
+            "last_commit": "2026-10-03T02:42:26Z",
+            "open_issues": 190,
             "owner": "DIYgod",
             "repo": "RSSHub",
-            "stars": 46394,
+            "stars": 46395,
             "topics": [
               "bilibili",
               "douban",
@@ -173,7 +173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:22:02.395Z",
+    "last_updated": "2026-10-03T05:06:37.587Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎯 精选 RSSHub 实用路由推荐，让你的 RSS 阅读更高效！",
@@ -185,7 +185,7 @@
       "open_issues": 1,
       "owner": "JackyST0",
       "repo": "awesome-rsshub-routes",
-      "stars": 875,
+      "stars": 877,
       "topics": [
         "awesome",
         "awesome-list",
