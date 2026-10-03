@@ -19,7 +19,7 @@
 This repository is designed as a usable feed directory rather than a traditional curated-links list. It focuses on helping you discover, copy, and import high-signal feeds quickly, including:
 
 * 📡 **Official RSS** - Native RSS feeds provided by websites
-* 🔧 **RSSHub Routes** - RSS feeds generated via [RSSHub](https://github.com/DIYgod/RSSHub) ⭐ 46,395 | 🐛 190 | 🌐 TypeScript | 📅 2026-10-03
+* 🔧 **RSSHub Routes** - RSS feeds generated via [RSSHub](https://github.com/DIYgod/RSSHub) ⭐ 46,399 | 🐛 190 | 🌐 TypeScript | 📅 2026-10-03
 
 ## Quick Start
 
@@ -395,7 +395,7 @@ The following routes require RSSHub. Format: `https://rsshub.app` + route.
 
 | Name                                                                                                      | Platform                | Description                              |
 | --------------------------------------------------------------------------------------------------------- | ----------------------- | ---------------------------------------- |
-| [RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar) ⭐ 7,353 \| 🐛 70 \| 🌐 TypeScript \| 📅 2026-09-01 | Chrome / Firefox / Edge | Auto-discover RSSHub routes on any page. |
+| [RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar) ⭐ 7,355 \| 🐛 70 \| 🌐 TypeScript \| 📅 2026-09-01 | Chrome / Firefox / Edge | Auto-discover RSSHub routes on any page. |
 | [Feedbro](https://nodetics.com/feedbro/)                                                                  | Chrome / Firefox        | In-browser RSS reader.                   |
 | [RSS Finder](https://github.com/nickreese/rss-finder)                                                     | Chrome                  | Quick RSS feed discovery.                |
 
@@ -416,7 +416,7 @@ Subscribe to version updates of your favorite RSS tools.
 | Resource                                                                                                  | Description                      |
 | --------------------------------------------------------------------------------------------------------- | -------------------------------- |
 | [RSSHub Documentation](https://docs.rsshub.app/)                                                          | Route lookup and deployment.     |
-| [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) ⭐ 5,916 \| 🐛 24 \| 🌐 Python \| 📅 2026-09-01 | Comprehensive RSS resource list. |
+| [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) ⭐ 5,917 \| 🐛 26 \| 🌐 Python \| 📅 2026-09-01 | Comprehensive RSS resource list. |
 | [RSS Guide on SSPAI](https://sspai.com/post/56391)                                                        | RSS beginner guide (Chinese).    |
 
 ## How to Use
@@ -438,7 +438,7 @@ Simply copy the feed URL into your RSS reader. No assembly required.
 | [Feedly](https://feedly.com/)                                                                                    | Web            | Classic reader, free tier.   |
 | [Inoreader](https://www.inoreader.com/)                                                                          | Web / App      | Feature-rich.                |
 | [NetNewsWire](https://netnewswire.com/)                                                                          | macOS / iOS    | Native and free.             |
-| [Fluent Reader](https://github.com/yang991178/fluent-reader) ⭐ 9,688 \| 🐛 393 \| 🌐 TypeScript \| 📅 2026-09-16 | Cross-platform | Open-source and modern.      |
+| [Fluent Reader](https://github.com/yang991178/fluent-reader) ⭐ 9,687 \| 🐛 393 \| 🌐 TypeScript \| 📅 2026-09-16 | Cross-platform | Open-source and modern.      |
 | [Folo](https://folo.is/)                                                                                         | Cross-platform | Next-gen with AI.            |
 | [FreshRSS](https://freshrss.org/)                                                                                | Self-hosted    | Open-source and self-hosted. |
 
@@ -459,7 +459,7 @@ If this project saves you time finding quality RSS feeds, you can support it by 
 
 ## Related Resources
 
-* [RSSHub GitHub](https://github.com/DIYgod/RSSHub) ⭐ 46,395 | 🐛 190 | 🌐 TypeScript | 📅 2026-10-03
+* [RSSHub GitHub](https://github.com/DIYgod/RSSHub) ⭐ 46,399 | 🐛 190 | 🌐 TypeScript | 📅 2026-10-03
 * [RSSHub Documentation](https://docs.rsshub.app/)
 
 ## Star History
