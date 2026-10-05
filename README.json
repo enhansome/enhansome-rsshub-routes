@@ -55,7 +55,7 @@
                 "open_issues": 26,
                 "owner": "AboutRSS",
                 "repo": "ALL-about-RSS",
-                "stars": 5916,
+                "stars": 5919,
                 "topics": [
                   "all-in-one",
                   "apps",
@@ -108,7 +108,7 @@
             "open_issues": 393,
             "owner": "yang991178",
             "repo": "fluent-reader",
-            "stars": 9690,
+            "stars": 9691,
             "topics": [
               "electron",
               "linux",
@@ -140,11 +140,11 @@
             "id": 127769231,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-04T15:40:50Z",
-            "open_issues": 191,
+            "last_commit": "2026-10-05T15:20:40Z",
+            "open_issues": 192,
             "owner": "DIYgod",
             "repo": "RSSHub",
-            "stars": 46412,
+            "stars": 46421,
             "topics": [
               "bilibili",
               "douban",
@@ -173,7 +173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T20:14:29.862Z",
+    "last_updated": "2026-10-05T23:13:01.910Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎯 精选 RSSHub 实用路由推荐，让你的 RSS 阅读更高效！",
@@ -181,11 +181,11 @@
       "id": 1137362287,
       "language": "HTML",
       "license": "CC0-1.0",
-      "last_commit": "2026-09-28T08:10:33Z",
+      "last_commit": "2026-10-05T08:15:34Z",
       "open_issues": 1,
       "owner": "JackyST0",
       "repo": "awesome-rsshub-routes",
-      "stars": 881,
+      "stars": 884,
       "topics": [
         "awesome",
         "awesome-list",
@@ -194,7 +194,7 @@
         "rsshub"
       ]
     },
-    "original_repository_sha": "43391a51b6e5c1cf6357cb2b47d81ad212f887d2",
+    "original_repository_sha": "297685c3c0957ed19b01584e7860ce4161e7c5e0",
     "enhanced_repository": "enhansome/enhansome-rsshub-routes",
     "enhanced_repository_description": null,
     "title": "Awesome RSSHub Routes with stars"
