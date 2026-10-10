@@ -19,7 +19,7 @@
 This repository is designed as a usable feed directory rather than a traditional curated-links list. It focuses on helping you discover, copy, and import high-signal feeds quickly, including:
 
 * 📡 **Official RSS** - Native RSS feeds provided by websites
-* 🔧 **RSSHub Routes** - RSS feeds generated via [RSSHub](https://github.com/DIYgod/RSSHub) ⭐ 46,473 | 🐛 55 | 🌐 TypeScript | 📅 2026-10-09
+* 🔧 **RSSHub Routes** - RSS feeds generated via [RSSHub](https://github.com/DIYgod/RSSHub) ⭐ 46,485 | 🐛 54 | 🌐 TypeScript | 📅 2026-10-10
 
 ## Quick Start
 
@@ -181,13 +181,14 @@ Built on Discourse with native RSS support.
 
 Well-known international tech media with official RSS.
 
-| Name                  | Feed URL                                          | Description              |
-| --------------------- | ------------------------------------------------- | ------------------------ |
-| TechCrunch            | `https://techcrunch.com/feed/`                    | Silicon Valley tech news |
-| The Verge             | `https://www.theverge.com/rss/index.xml`          | Tech and culture         |
-| Wired                 | `https://www.wired.com/feed/rss`                  | Wired magazine           |
-| Ars Technica          | `https://feeds.arstechnica.com/arstechnica/index` | In-depth tech analysis   |
-| MIT Technology Review | `https://www.technologyreview.com/feed/`          | MIT tech review          |
+| Name                  | Feed URL                                          | Description                                     |
+| --------------------- | ------------------------------------------------- | ----------------------------------------------- |
+| TechCrunch            | `https://techcrunch.com/feed/`                    | Silicon Valley tech news                        |
+| The Verge             | `https://www.theverge.com/rss/index.xml`          | Tech and culture                                |
+| Wired                 | `https://www.wired.com/feed/rss`                  | Wired magazine                                  |
+| Ars Technica          | `https://feeds.arstechnica.com/arstechnica/index` | In-depth tech analysis                          |
+| Joho no Todai         | `https://joho-todai.com/pinterest-rss/`           | Japanese tech news and analysis; short excerpts |
+| MIT Technology Review | `https://www.technologyreview.com/feed/`          | MIT tech review                                 |
 
 ### Security
 
@@ -211,7 +212,6 @@ Frontend development, UI/UX design resources.
 | --------------------- | -------------------------------------------- | -------------------------- |
 | Smashing Magazine     | `https://www.smashingmagazine.com/feed/`     | Frontend design magazine   |
 | A List Apart          | `https://alistapart.com/main/feed/`          | Web standards and design   |
-| Codrops               | `https://tympanus.net/codrops/feed/`         | Creative frontend effects  |
 | CSS-Tricks            | `https://css-tricks.com/feed/`               | CSS tips and tutorials     |
 | Astro Blog            | `https://astro.build/rss.xml`                | Astro framework updates    |
 | Svelte Blog           | `https://svelte.dev/blog/rss.xml`            | Svelte and SvelteKit news  |
@@ -235,6 +235,7 @@ Official blogs for programming languages and frameworks.
 | Go Blog         | `https://go.dev/blog/feed.atom`                   | Go official blog         |
 | Python Blog     | `https://blog.python.org/feeds/posts/default`     | Python official blog     |
 | Node.js Blog    | `https://nodejs.org/en/feed/blog.xml`             | Node.js official blog    |
+| Deno Blog       | `https://deno.com/feed`                           | Deno official blog       |
 | TypeScript Blog | `https://devblogs.microsoft.com/typescript/feed/` | TypeScript official blog |
 | Swift Blog      | `https://www.swift.org/atom.xml`                  | Swift official blog      |
 | Kotlin Blog     | `https://blog.jetbrains.com/kotlin/feed/`         | Kotlin official blog     |
@@ -395,7 +396,7 @@ The following routes require RSSHub. Format: `https://rsshub.app` + route.
 
 | Name                                                                                                      | Platform                | Description                              |
 | --------------------------------------------------------------------------------------------------------- | ----------------------- | ---------------------------------------- |
-| [RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar) ⭐ 7,363 \| 🐛 72 \| 🌐 TypeScript \| 📅 2026-09-01 | Chrome / Firefox / Edge | Auto-discover RSSHub routes on any page. |
+| [RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar) ⭐ 7,365 \| 🐛 72 \| 🌐 TypeScript \| 📅 2026-09-01 | Chrome / Firefox / Edge | Auto-discover RSSHub routes on any page. |
 | [Feedbro](https://nodetics.com/feedbro/)                                                                  | Chrome / Firefox        | In-browser RSS reader.                   |
 | [RSS Finder](https://github.com/nickreese/rss-finder)                                                     | Chrome                  | Quick RSS feed discovery.                |
 
@@ -416,7 +417,7 @@ Subscribe to version updates of your favorite RSS tools.
 | Resource                                                                                                  | Description                      |
 | --------------------------------------------------------------------------------------------------------- | -------------------------------- |
 | [RSSHub Documentation](https://docs.rsshub.app/)                                                          | Route lookup and deployment.     |
-| [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) ⭐ 5,920 \| 🐛 27 \| 🌐 Python \| 📅 2026-09-01 | Comprehensive RSS resource list. |
+| [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) ⭐ 5,922 \| 🐛 28 \| 🌐 Python \| 📅 2026-09-01 | Comprehensive RSS resource list. |
 | [RSS Guide on SSPAI](https://sspai.com/post/56391)                                                        | RSS beginner guide (Chinese).    |
 
 ## How to Use
@@ -438,7 +439,7 @@ Simply copy the feed URL into your RSS reader. No assembly required.
 | [Feedly](https://feedly.com/)                                                                                    | Web            | Classic reader, free tier.   |
 | [Inoreader](https://www.inoreader.com/)                                                                          | Web / App      | Feature-rich.                |
 | [NetNewsWire](https://netnewswire.com/)                                                                          | macOS / iOS    | Native and free.             |
-| [Fluent Reader](https://github.com/yang991178/fluent-reader) ⭐ 9,700 \| 🐛 393 \| 🌐 TypeScript \| 📅 2026-09-16 | Cross-platform | Open-source and modern.      |
+| [Fluent Reader](https://github.com/yang991178/fluent-reader) ⭐ 9,706 \| 🐛 393 \| 🌐 TypeScript \| 📅 2026-09-16 | Cross-platform | Open-source and modern.      |
 | [Folo](https://folo.is/)                                                                                         | Cross-platform | Next-gen with AI.            |
 | [FreshRSS](https://freshrss.org/)                                                                                | Self-hosted    | Open-source and self-hosted. |
 
@@ -459,7 +460,7 @@ If this project saves you time finding quality RSS feeds, you can support it by 
 
 ## Related Resources
 
-* [RSSHub GitHub](https://github.com/DIYgod/RSSHub) ⭐ 46,473 | 🐛 55 | 🌐 TypeScript | 📅 2026-10-09
+* [RSSHub GitHub](https://github.com/DIYgod/RSSHub) ⭐ 46,485 | 🐛 54 | 🌐 TypeScript | 📅 2026-10-10
 * [RSSHub Documentation](https://docs.rsshub.app/)
 
 ## Star History
@@ -474,4 +475,4 @@ If this project is helpful to you, please consider giving it a star.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
