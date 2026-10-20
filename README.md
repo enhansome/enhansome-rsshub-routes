@@ -19,7 +19,7 @@
 This repository is designed as a usable feed directory rather than a traditional curated-links list. It focuses on helping you discover, copy, and import high-signal feeds quickly, including:
 
 * 📡 **Official RSS** - Native RSS feeds provided by websites
-* 🔧 **RSSHub Routes** - RSS feeds generated via [RSSHub](https://github.com/DIYgod/RSSHub) ⭐ 46,584 | 🐛 43 | 🌐 TypeScript | 📅 2026-10-19
+* 🔧 **RSSHub Routes** - RSS feeds generated via [RSSHub](https://github.com/DIYgod/RSSHub) ⭐ 46,592 | 🐛 44 | 🌐 TypeScript | 📅 2026-10-20
 
 ## Quick Start
 
@@ -196,15 +196,16 @@ Well-known international tech media with official RSS.
 
 Cybersecurity, vulnerabilities, and threat intelligence.
 
-| Name                 | Feed URL                                      | Description             |
-| -------------------- | --------------------------------------------- | ----------------------- |
-| Krebs on Security    | `https://krebsonsecurity.com/feed/`           | Renowned security blog  |
-| The Hacker News      | `https://feeds.feedburner.com/TheHackersNews` | Hacking news            |
-| Schneier on Security | `https://www.schneier.com/feed/`              | Security expert blog    |
-| CISA News            | `https://www.cisa.gov/news.xml`               | US cyber alerts         |
-| Google Security Blog | `https://security.googleblog.com/atom.xml`    | Google security updates |
-| FreeBuf              | `https://www.freebuf.com/feed`                | Chinese security news   |
-| AnQuanKe             | `https://api.anquanke.com/data/v1/rss`        | Security tech news      |
+| Name                 | Feed URL                                      | Description                                                                        |
+| -------------------- | --------------------------------------------- | ---------------------------------------------------------------------------------- |
+| Krebs on Security    | `https://krebsonsecurity.com/feed/`           | Renowned security blog                                                             |
+| The Hacker News      | `https://feeds.feedburner.com/TheHackersNews` | Hacking news                                                                       |
+| Schneier on Security | `https://www.schneier.com/feed/`              | Security expert blog                                                               |
+| CISA News            | `https://www.cisa.gov/news.xml`               | US cyber alerts                                                                    |
+| Google Security Blog | `https://security.googleblog.com/atom.xml`    | Google security updates                                                            |
+| ICHI                 | `https://ichi.global/api/alerts`              | Internet cyber health index; critical active threat alerts from 20+ public sources |
+| FreeBuf              | `https://www.freebuf.com/feed`                | Chinese security news                                                              |
+| AnQuanKe             | `https://api.anquanke.com/data/v1/rss`        | Security tech news                                                                 |
 
 ### Frontend and Design
 
@@ -398,7 +399,7 @@ The following routes require RSSHub. Format: `https://rsshub.app` + route.
 
 | Name                                                                                                      | Platform                | Description                              |
 | --------------------------------------------------------------------------------------------------------- | ----------------------- | ---------------------------------------- |
-| [RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar) ⭐ 7,378 \| 🐛 72 \| 🌐 TypeScript \| 📅 2026-09-01 | Chrome / Firefox / Edge | Auto-discover RSSHub routes on any page. |
+| [RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar) ⭐ 7,374 \| 🐛 72 \| 🌐 TypeScript \| 📅 2026-09-01 | Chrome / Firefox / Edge | Auto-discover RSSHub routes on any page. |
 | [Feedbro](https://nodetics.com/feedbro/)                                                                  | Chrome / Firefox        | In-browser RSS reader.                   |
 | [RSS Finder](https://github.com/nickreese/rss-finder)                                                     | Chrome                  | Quick RSS feed discovery.                |
 
@@ -419,7 +420,7 @@ Subscribe to version updates of your favorite RSS tools.
 | Resource                                                                                                  | Description                      |
 | --------------------------------------------------------------------------------------------------------- | -------------------------------- |
 | [RSSHub Documentation](https://docs.rsshub.app/)                                                          | Route lookup and deployment.     |
-| [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) ⭐ 5,931 \| 🐛 31 \| 🌐 Python \| 📅 2026-09-01 | Comprehensive RSS resource list. |
+| [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) ⭐ 5,933 \| 🐛 31 \| 🌐 Python \| 📅 2026-09-01 | Comprehensive RSS resource list. |
 | [RSS Guide on SSPAI](https://sspai.com/post/56391)                                                        | RSS beginner guide (Chinese).    |
 
 ## How to Use
@@ -441,7 +442,7 @@ Simply copy the feed URL into your RSS reader. No assembly required.
 | [Feedly](https://feedly.com/)                                                                                    | Web            | Classic reader, free tier.   |
 | [Inoreader](https://www.inoreader.com/)                                                                          | Web / App      | Feature-rich.                |
 | [NetNewsWire](https://netnewswire.com/)                                                                          | macOS / iOS    | Native and free.             |
-| [Fluent Reader](https://github.com/yang991178/fluent-reader) ⭐ 9,730 \| 🐛 376 \| 🌐 TypeScript \| 📅 2026-10-15 | Cross-platform | Open-source and modern.      |
+| [Fluent Reader](https://github.com/yang991178/fluent-reader) ⭐ 9,732 \| 🐛 376 \| 🌐 TypeScript \| 📅 2026-10-15 | Cross-platform | Open-source and modern.      |
 | [Folo](https://folo.is/)                                                                                         | Cross-platform | Next-gen with AI.            |
 | [FreshRSS](https://freshrss.org/)                                                                                | Self-hosted    | Open-source and self-hosted. |
 
@@ -462,7 +463,7 @@ If this project saves you time finding quality RSS feeds, you can support it by 
 
 ## Related Resources
 
-* [RSSHub GitHub](https://github.com/DIYgod/RSSHub) ⭐ 46,584 | 🐛 43 | 🌐 TypeScript | 📅 2026-10-19
+* [RSSHub GitHub](https://github.com/DIYgod/RSSHub) ⭐ 46,592 | 🐛 44 | 🌐 TypeScript | 📅 2026-10-20
 * [RSSHub Documentation](https://docs.rsshub.app/)
 
 ## Star History
@@ -477,4 +478,4 @@ If this project is helpful to you, please consider giving it a star.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
