@@ -19,7 +19,7 @@
 This repository is designed as a usable feed directory rather than a traditional curated-links list. It focuses on helping you discover, copy, and import high-signal feeds quickly, including:
 
 * 📡 **Official RSS** - Native RSS feeds provided by websites
-* 🔧 **RSSHub Routes** - RSS feeds generated via [RSSHub](https://github.com/DIYgod/RSSHub) ⭐ 46,592 | 🐛 44 | 🌐 TypeScript | 📅 2026-10-20
+* 🔧 **RSSHub Routes** - RSS feeds generated via [RSSHub](https://github.com/DIYgod/RSSHub) ⭐ 46,604 | 🐛 45 | 🌐 TypeScript | 📅 2026-10-21
 
 ## Quick Start
 
@@ -420,7 +420,7 @@ Subscribe to version updates of your favorite RSS tools.
 | Resource                                                                                                  | Description                      |
 | --------------------------------------------------------------------------------------------------------- | -------------------------------- |
 | [RSSHub Documentation](https://docs.rsshub.app/)                                                          | Route lookup and deployment.     |
-| [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) ⭐ 5,933 \| 🐛 31 \| 🌐 Python \| 📅 2026-09-01 | Comprehensive RSS resource list. |
+| [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) ⭐ 5,931 \| 🐛 32 \| 🌐 Python \| 📅 2026-09-01 | Comprehensive RSS resource list. |
 | [RSS Guide on SSPAI](https://sspai.com/post/56391)                                                        | RSS beginner guide (Chinese).    |
 
 ## How to Use
@@ -463,7 +463,7 @@ If this project saves you time finding quality RSS feeds, you can support it by 
 
 ## Related Resources
 
-* [RSSHub GitHub](https://github.com/DIYgod/RSSHub) ⭐ 46,592 | 🐛 44 | 🌐 TypeScript | 📅 2026-10-20
+* [RSSHub GitHub](https://github.com/DIYgod/RSSHub) ⭐ 46,604 | 🐛 45 | 🌐 TypeScript | 📅 2026-10-21
 * [RSSHub Documentation](https://docs.rsshub.app/)
 
 ## Star History
@@ -478,4 +478,4 @@ If this project is helpful to you, please consider giving it a star.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
