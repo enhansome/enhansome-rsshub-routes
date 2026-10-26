@@ -52,10 +52,10 @@
                 "language": "Python",
                 "license": "CC-BY-4.0",
                 "last_commit": "2026-09-01T01:30:48Z",
-                "open_issues": 34,
+                "open_issues": 35,
                 "owner": "AboutRSS",
                 "repo": "ALL-about-RSS",
-                "stars": 5938,
+                "stars": 5940,
                 "topics": [
                   "all-in-one",
                   "apps",
@@ -104,11 +104,11 @@
             "id": 268237230,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-15T20:26:36Z",
+            "last_commit": "2026-10-26T01:48:03Z",
             "open_issues": 377,
             "owner": "yang991178",
             "repo": "fluent-reader",
-            "stars": 9746,
+            "stars": 9750,
             "topics": [
               "electron",
               "linux",
@@ -140,11 +140,11 @@
             "id": 127769231,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-25T10:23:15Z",
-            "open_issues": 39,
+            "last_commit": "2026-10-26T15:14:21Z",
+            "open_issues": 40,
             "owner": "DIYgod",
             "repo": "RSSHub",
-            "stars": 46656,
+            "stars": 46673,
             "topics": [
               "bilibili",
               "douban",
@@ -173,7 +173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T19:45:37.943Z",
+    "last_updated": "2026-10-26T21:40:23.031Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎯 精选 RSSHub 实用路由推荐，让你的 RSS 阅读更高效！",
@@ -181,11 +181,11 @@
       "id": 1137362287,
       "language": "HTML",
       "license": "CC0-1.0",
-      "last_commit": "2026-10-20T01:14:59Z",
+      "last_commit": "2026-10-26T07:22:37Z",
       "open_issues": 1,
       "owner": "JackyST0",
       "repo": "awesome-rsshub-routes",
-      "stars": 910,
+      "stars": 915,
       "topics": [
         "awesome",
         "awesome-list",
@@ -194,7 +194,7 @@
         "rsshub"
       ]
     },
-    "original_repository_sha": "722cc95c66527024d51b47616c9f6b08849b72c1",
+    "original_repository_sha": "dd82a4f2087809ace79b83e2cdd6fc761c64fb31",
     "enhanced_repository": "enhansome/enhansome-rsshub-routes",
     "enhanced_repository_description": null,
     "title": "Awesome RSSHub Routes with stars"
