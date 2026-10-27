@@ -21,7 +21,7 @@
                 "open_issues": 72,
                 "owner": "DIYgod",
                 "repo": "RSSHub-Radar",
-                "stars": 7376,
+                "stars": 7377,
                 "topics": [
                   "browser-extension",
                   "chrome-extension",
@@ -51,11 +51,11 @@
                 "id": 255616511,
                 "language": "Python",
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-09-01T01:30:48Z",
-                "open_issues": 35,
+                "last_commit": "2026-10-27T14:27:32Z",
+                "open_issues": 33,
                 "owner": "AboutRSS",
                 "repo": "ALL-about-RSS",
-                "stars": 5940,
+                "stars": 5941,
                 "topics": [
                   "all-in-one",
                   "apps",
@@ -108,7 +108,7 @@
             "open_issues": 377,
             "owner": "yang991178",
             "repo": "fluent-reader",
-            "stars": 9750,
+            "stars": 9753,
             "topics": [
               "electron",
               "linux",
@@ -140,11 +140,11 @@
             "id": 127769231,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-26T15:14:21Z",
+            "last_commit": "2026-10-27T15:26:03Z",
             "open_issues": 40,
             "owner": "DIYgod",
             "repo": "RSSHub",
-            "stars": 46673,
+            "stars": 46686,
             "topics": [
               "bilibili",
               "douban",
@@ -173,7 +173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T21:40:23.031Z",
+    "last_updated": "2026-10-27T21:23:34.573Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎯 精选 RSSHub 实用路由推荐，让你的 RSS 阅读更高效！",
@@ -185,7 +185,7 @@
       "open_issues": 1,
       "owner": "JackyST0",
       "repo": "awesome-rsshub-routes",
-      "stars": 915,
+      "stars": 916,
       "topics": [
         "awesome",
         "awesome-list",
