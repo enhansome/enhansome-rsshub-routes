@@ -21,7 +21,7 @@
                 "open_issues": 72,
                 "owner": "DIYgod",
                 "repo": "RSSHub-Radar",
-                "stars": 7380,
+                "stars": 7383,
                 "topics": [
                   "browser-extension",
                   "chrome-extension",
@@ -51,11 +51,11 @@
                 "id": 255616511,
                 "language": "Python",
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-10-29T06:42:15Z",
-                "open_issues": 31,
+                "last_commit": "2026-10-30T05:03:59Z",
+                "open_issues": 30,
                 "owner": "AboutRSS",
                 "repo": "ALL-about-RSS",
-                "stars": 5938,
+                "stars": 5939,
                 "topics": [
                   "all-in-one",
                   "apps",
@@ -105,10 +105,10 @@
             "language": "TypeScript",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-29T21:21:13Z",
-            "open_issues": 373,
+            "open_issues": 372,
             "owner": "yang991178",
             "repo": "fluent-reader",
-            "stars": 9762,
+            "stars": 9767,
             "topics": [
               "electron",
               "linux",
@@ -140,11 +140,11 @@
             "id": 127769231,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-29T19:37:51Z",
+            "last_commit": "2026-10-30T16:31:55Z",
             "open_issues": 38,
             "owner": "DIYgod",
             "repo": "RSSHub",
-            "stars": 46719,
+            "stars": 46733,
             "topics": [
               "bilibili",
               "douban",
@@ -173,7 +173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T21:52:18.343Z",
+    "last_updated": "2026-10-30T21:36:03.449Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎯 精选 RSSHub 实用路由推荐，让你的 RSS 阅读更高效！",
@@ -185,7 +185,7 @@
       "open_issues": 1,
       "owner": "JackyST0",
       "repo": "awesome-rsshub-routes",
-      "stars": 920,
+      "stars": 919,
       "topics": [
         "awesome",
         "awesome-list",
