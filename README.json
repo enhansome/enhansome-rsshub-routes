@@ -17,11 +17,11 @@
                 "id": 197205035,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-02T13:54:39Z",
-                "open_issues": 21,
+                "last_commit": "2026-11-04T14:47:23Z",
+                "open_issues": 23,
                 "owner": "DIYgod",
                 "repo": "RSSHub-Radar",
-                "stars": 7390,
+                "stars": 7395,
                 "topics": [
                   "browser-extension",
                   "chrome-extension",
@@ -51,11 +51,11 @@
                 "id": 255616511,
                 "language": "Python",
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-11-02T15:09:56Z",
+                "last_commit": "2026-11-04T15:54:29Z",
                 "open_issues": 10,
                 "owner": "AboutRSS",
                 "repo": "ALL-about-RSS",
-                "stars": 5946,
+                "stars": 5947,
                 "topics": [
                   "all-in-one",
                   "apps",
@@ -108,7 +108,7 @@
             "open_issues": 375,
             "owner": "yang991178",
             "repo": "fluent-reader",
-            "stars": 9776,
+            "stars": 9779,
             "topics": [
               "electron",
               "linux",
@@ -140,11 +140,11 @@
             "id": 127769231,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-03T21:05:49Z",
-            "open_issues": 37,
+            "last_commit": "2026-11-04T17:17:56Z",
+            "open_issues": 36,
             "owner": "DIYgod",
             "repo": "RSSHub",
-            "stars": 46797,
+            "stars": 46817,
             "topics": [
               "bilibili",
               "douban",
@@ -174,7 +174,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T22:23:23.841Z",
+    "last_updated": "2026-11-04T22:41:44.400Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎯 精选 RSSHub 实用路由推荐，让你的 RSS 阅读更高效！",
@@ -182,11 +182,11 @@
       "id": 1137362287,
       "language": "HTML",
       "license": "CC0-1.0",
-      "last_commit": "2026-11-02T08:49:35Z",
-      "open_issues": 2,
+      "last_commit": "2026-11-04T07:12:03Z",
+      "open_issues": 1,
       "owner": "JackyST0",
       "repo": "awesome-rsshub-routes",
-      "stars": 923,
+      "stars": 925,
       "topics": [
         "awesome",
         "awesome-list",
@@ -195,7 +195,7 @@
         "rsshub"
       ]
     },
-    "original_repository_sha": "46d5dd73b25eabb5faebc9a4a6ee9baf2f662001",
+    "original_repository_sha": "3addb4ee8116bfc92dca5cd9e2bdeb8c85bc3ead",
     "enhanced_repository": "enhansome/enhansome-rsshub-routes",
     "enhanced_repository_description": null,
     "title": "Awesome RSSHub Routes with stars"
