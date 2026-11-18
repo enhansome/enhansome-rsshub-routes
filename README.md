@@ -19,7 +19,7 @@
 This repository is designed as a usable feed directory rather than a traditional curated-links list. It focuses on helping you discover, copy, and import high-signal feeds quickly, including:
 
 * 📡 **Official RSS** - Native RSS feeds provided by websites
-* 🔧 **RSSHub Routes** - RSS feeds generated via [RSSHub](https://github.com/DIYgod/RSSHub) ⭐ 47,081 | 🐛 20 | 🌐 TypeScript | 📅 2026-11-17
+* 🔧 **RSSHub Routes** - RSS feeds generated via [RSSHub](https://github.com/DIYgod/RSSHub) ⭐ 47,103 | 🐛 21 | 🌐 TypeScript | 📅 2026-11-18
 
 ## Quick Start
 
@@ -400,7 +400,7 @@ The following routes require RSSHub. Format: `https://rsshub.app` + route.
 
 | Name                                                                                                      | Platform                | Description                              |
 | --------------------------------------------------------------------------------------------------------- | ----------------------- | ---------------------------------------- |
-| [RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar) ⭐ 7,418 \| 🐛 31 \| 🌐 TypeScript \| 📅 2026-11-17 | Chrome / Firefox / Edge | Auto-discover RSSHub routes on any page. |
+| [RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar) ⭐ 7,421 \| 🐛 31 \| 🌐 TypeScript \| 📅 2026-11-18 | Chrome / Firefox / Edge | Auto-discover RSSHub routes on any page. |
 | [Feedbro](https://nodetics.com/feedbro/)                                                                  | Chrome / Firefox        | In-browser RSS reader.                   |
 | [RSS Finder](https://github.com/nickreese/rss-finder)                                                     | Chrome                  | Quick RSS feed discovery.                |
 
@@ -418,12 +418,12 @@ Subscribe to version updates of your favorite RSS tools.
 
 ### Learning Resources
 
-| Resource                                                                                                 | Description                                                                   |
-| -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [RSSHub Documentation](https://docs.rsshub.app/)                                                         | Route lookup and deployment.                                                  |
-| [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) ⭐ 5,955 \| 🐛 9 \| 🌐 Python \| 📅 2026-11-07 | Comprehensive RSS resource list.                                              |
-| [RSS Guide on SSPAI](https://sspai.com/post/56391)                                                       | RSS beginner guide (Chinese).                                                 |
-| [YouTube Channel Feed Guide by Brew](https://getbrew.app/blog/youtube-rss-feed/)                         | Find channel IDs, verify native Atom feeds, and troubleshoot empty responses. |
+| Resource                                                                                                  | Description                                                                   |
+| --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| [RSSHub Documentation](https://docs.rsshub.app/)                                                          | Route lookup and deployment.                                                  |
+| [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) ⭐ 5,956 \| 🐛 10 \| 🌐 Python \| 📅 2026-11-07 | Comprehensive RSS resource list.                                              |
+| [RSS Guide on SSPAI](https://sspai.com/post/56391)                                                        | RSS beginner guide (Chinese).                                                 |
+| [YouTube Channel Feed Guide by Brew](https://getbrew.app/blog/youtube-rss-feed/)                          | Find channel IDs, verify native Atom feeds, and troubleshoot empty responses. |
 
 ## How to Use
 
@@ -465,7 +465,7 @@ If this project saves you time finding quality RSS feeds, you can support it by 
 
 ## Related Resources
 
-* [RSSHub GitHub](https://github.com/DIYgod/RSSHub) ⭐ 47,081 | 🐛 20 | 🌐 TypeScript | 📅 2026-11-17
+* [RSSHub GitHub](https://github.com/DIYgod/RSSHub) ⭐ 47,103 | 🐛 21 | 🌐 TypeScript | 📅 2026-11-18
 * [RSSHub Documentation](https://docs.rsshub.app/)
 
 ## Star History
@@ -480,4 +480,4 @@ If this project is helpful to you, please consider giving it a star.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._

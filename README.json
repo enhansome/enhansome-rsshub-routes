@@ -17,11 +17,11 @@
                 "id": 197205035,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-17T16:07:10Z",
+                "last_commit": "2026-11-18T09:43:08Z",
                 "open_issues": 31,
                 "owner": "DIYgod",
                 "repo": "RSSHub-Radar",
-                "stars": 7418,
+                "stars": 7421,
                 "topics": [
                   "browser-extension",
                   "chrome-extension",
@@ -52,10 +52,10 @@
                 "language": "Python",
                 "license": "CC-BY-4.0",
                 "last_commit": "2026-11-07T14:40:59Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "AboutRSS",
                 "repo": "ALL-about-RSS",
-                "stars": 5955,
+                "stars": 5956,
                 "topics": [
                   "all-in-one",
                   "apps",
@@ -140,11 +140,11 @@
             "id": 127769231,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-17T18:37:12Z",
-            "open_issues": 20,
+            "last_commit": "2026-11-18T22:26:12Z",
+            "open_issues": 21,
             "owner": "DIYgod",
             "repo": "RSSHub",
-            "stars": 47081,
+            "stars": 47103,
             "topics": [
               "bilibili",
               "douban",
@@ -174,7 +174,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T23:52:51.025Z",
+    "last_updated": "2026-11-18T23:25:59.738Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎯 精选 RSSHub 实用路由推荐，让你的 RSS 阅读更高效！",
@@ -186,7 +186,7 @@
       "open_issues": 1,
       "owner": "JackyST0",
       "repo": "awesome-rsshub-routes",
-      "stars": 938,
+      "stars": 940,
       "topics": [
         "awesome",
         "awesome-list",
