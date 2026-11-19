@@ -17,11 +17,11 @@
                 "id": 197205035,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-18T09:43:08Z",
-                "open_issues": 31,
+                "last_commit": "2026-11-19T09:42:33Z",
+                "open_issues": 32,
                 "owner": "DIYgod",
                 "repo": "RSSHub-Radar",
-                "stars": 7421,
+                "stars": 7423,
                 "topics": [
                   "browser-extension",
                   "chrome-extension",
@@ -55,7 +55,7 @@
                 "open_issues": 10,
                 "owner": "AboutRSS",
                 "repo": "ALL-about-RSS",
-                "stars": 5956,
+                "stars": 5959,
                 "topics": [
                   "all-in-one",
                   "apps",
@@ -108,7 +108,7 @@
             "open_issues": 376,
             "owner": "yang991178",
             "repo": "fluent-reader",
-            "stars": 9799,
+            "stars": 9802,
             "topics": [
               "electron",
               "linux",
@@ -140,11 +140,11 @@
             "id": 127769231,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-18T22:26:12Z",
-            "open_issues": 21,
+            "last_commit": "2026-11-19T20:59:49Z",
+            "open_issues": 20,
             "owner": "DIYgod",
             "repo": "RSSHub",
-            "stars": 47103,
+            "stars": 47117,
             "topics": [
               "bilibili",
               "douban",
@@ -174,7 +174,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T23:25:59.738Z",
+    "last_updated": "2026-11-19T23:38:39.434Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎯 精选 RSSHub 实用路由推荐，让你的 RSS 阅读更高效！",
@@ -186,7 +186,7 @@
       "open_issues": 1,
       "owner": "JackyST0",
       "repo": "awesome-rsshub-routes",
-      "stars": 940,
+      "stars": 941,
       "topics": [
         "awesome",
         "awesome-list",
