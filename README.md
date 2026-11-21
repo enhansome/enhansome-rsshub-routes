@@ -19,7 +19,7 @@
 This repository is designed as a usable feed directory rather than a traditional curated-links list. It focuses on helping you discover, copy, and import high-signal feeds quickly, including:
 
 * 📡 **Official RSS** - Native RSS feeds provided by websites
-* 🔧 **RSSHub Routes** - RSS feeds generated via [RSSHub](https://github.com/DIYgod/RSSHub) ⭐ 47,127 | 🐛 21 | 🌐 TypeScript | 📅 2026-11-20
+* 🔧 **RSSHub Routes** - RSS feeds generated via [RSSHub](https://github.com/DIYgod/RSSHub) ⭐ 47,148 | 🐛 20 | 🌐 TypeScript | 📅 2026-11-21
 
 ## Quick Start
 
@@ -400,7 +400,7 @@ The following routes require RSSHub. Format: `https://rsshub.app` + route.
 
 | Name                                                                                                      | Platform                | Description                              |
 | --------------------------------------------------------------------------------------------------------- | ----------------------- | ---------------------------------------- |
-| [RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar) ⭐ 7,424 \| 🐛 32 \| 🌐 TypeScript \| 📅 2026-11-20 | Chrome / Firefox / Edge | Auto-discover RSSHub routes on any page. |
+| [RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar) ⭐ 7,427 \| 🐛 32 \| 🌐 TypeScript \| 📅 2026-11-20 | Chrome / Firefox / Edge | Auto-discover RSSHub routes on any page. |
 | [Feedbro](https://nodetics.com/feedbro/)                                                                  | Chrome / Firefox        | In-browser RSS reader.                   |
 | [RSS Finder](https://github.com/nickreese/rss-finder)                                                     | Chrome                  | Quick RSS feed discovery.                |
 
@@ -465,7 +465,7 @@ If this project saves you time finding quality RSS feeds, you can support it by 
 
 ## Related Resources
 
-* [RSSHub GitHub](https://github.com/DIYgod/RSSHub) ⭐ 47,127 | 🐛 21 | 🌐 TypeScript | 📅 2026-11-20
+* [RSSHub GitHub](https://github.com/DIYgod/RSSHub) ⭐ 47,148 | 🐛 20 | 🌐 TypeScript | 📅 2026-11-21
 * [RSSHub Documentation](https://docs.rsshub.app/)
 
 ## Star History
@@ -480,4 +480,4 @@ If this project is helpful to you, please consider giving it a star.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
