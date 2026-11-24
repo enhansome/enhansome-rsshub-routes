@@ -17,8 +17,8 @@
                 "id": 197205035,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-20T09:43:08Z",
-                "open_issues": 31,
+                "last_commit": "2026-11-23T09:53:32Z",
+                "open_issues": 33,
                 "owner": "DIYgod",
                 "repo": "RSSHub-Radar",
                 "stars": 7428,
@@ -108,7 +108,7 @@
             "open_issues": 376,
             "owner": "yang991178",
             "repo": "fluent-reader",
-            "stars": 9803,
+            "stars": 9806,
             "topics": [
               "electron",
               "linux",
@@ -140,11 +140,11 @@
             "id": 127769231,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-22T17:15:53Z",
-            "open_issues": 19,
+            "last_commit": "2026-11-24T02:13:18Z",
+            "open_issues": 14,
             "owner": "DIYgod",
             "repo": "RSSHub",
-            "stars": 47162,
+            "stars": 47178,
             "topics": [
               "bilibili",
               "douban",
@@ -174,7 +174,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T22:34:37.543Z",
+    "last_updated": "2026-11-24T03:22:13.564Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎯 精选 RSSHub 实用路由推荐，让你的 RSS 阅读更高效！",
@@ -182,11 +182,11 @@
       "id": 1137362287,
       "language": "HTML",
       "license": "CC0-1.0",
-      "last_commit": "2026-11-16T08:58:24Z",
+      "last_commit": "2026-11-23T10:14:56Z",
       "open_issues": 1,
       "owner": "JackyST0",
       "repo": "awesome-rsshub-routes",
-      "stars": 952,
+      "stars": 957,
       "topics": [
         "awesome",
         "awesome-list",
@@ -195,7 +195,7 @@
         "rsshub"
       ]
     },
-    "original_repository_sha": "27a414f3ee1e33239c92145b5c95b52e594124fe",
+    "original_repository_sha": "ef1fc7adb7f037b0be5eb5ed1b8feb07dddbf1e9",
     "enhanced_repository": "enhansome/enhansome-rsshub-routes",
     "enhanced_repository_description": null,
     "title": "Awesome RSSHub Routes with stars"
